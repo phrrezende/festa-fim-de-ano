@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">festaFimDeAno</string>
+    <string name="dias_restantes_para_fim_do_ano">Dias Restantes para Fim do Ano</string>
+    <string name="dias">Dias</string>
+    <string name="nao_confirmado">Não Confirmado</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+</resources>
